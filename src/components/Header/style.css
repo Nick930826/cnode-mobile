@@ -1,0 +1,32 @@
+.cndoe-header {
+  height: 100px;
+  background: #444;
+}
+
+.cndoe-header ul {
+  text-align: center;
+  padding: 0 10px;
+  margin: 0;
+  height: 100%;
+  line-height: 50PX;
+}
+
+.cndoe-header ul li {
+  list-style: none;
+  display: inline-block;
+  font-size: 20PX;
+  margin: 0 30px;
+  color: #fff;
+}
+
+.cndoe-header ul li a {
+  color: #fff;
+}
+
+.cndoe-header .goback {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin: 30px 0 0 10px;
+  color: #fff;
+}

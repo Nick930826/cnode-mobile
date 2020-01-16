@@ -1,0 +1,26 @@
+.home {
+  font-size: 20PX;
+}
+.home .am-card {
+  min-height: auto;
+}
+.home .list-item {
+  margin-bottom: 20px;
+}
+
+.list-item .am-card-header-content {
+  flex: 7 1;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.list-item .am-card-header-content img {
+  width: 30px;
+  vertical-align: -8px;
+}
+
+.home .am-icon-right, .home .am-icon-left {
+  vertical-align: -5px;
+}
